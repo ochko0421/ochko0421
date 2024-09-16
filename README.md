@@ -2,10 +2,10 @@
 
 ### My skills
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nextjs,ts,nodejs,express,ts,mysql,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nextjs,ts,nodejs,express,ts,mysql,mongodb,azure,angular,java&perline=14" />
   </a>
   <br>
-  <p>software develepor at xacbank</p>
+  <p>software developer at xacbank</p>
   <p>Currently working on automation of business process(Backend-java: spring boot,frontend-typescript: angular,process-model:camunda-modeler)</p>
 
 ### My stats
