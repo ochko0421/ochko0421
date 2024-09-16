@@ -5,8 +5,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nextjs,ts,nodejs,express,ts,mysql,mongodb&perline=14" />
   </a>
   <br>
-  <p>Graduating Pinecone academy soon</p>
-  <p>I am also currenly taking online class of java in udemy and learning to write in react-native  </p>
+  <p>software develepor at xacbank</p>
+  <p>Currently working on automation of business process(Backend-java: spring boot,frontend-typescript: angular,process-model:camunda-modeler)</p>
 
 ### My stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NaDo2383&theme=algolia" alt="candida18"  /></p>
