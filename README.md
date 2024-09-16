@@ -6,7 +6,7 @@
   </a>
   <br>
   <p>software developer at xacbank</p>
-  <p>Currently working on automation of business process(Backend-java: spring boot,frontend-typescript: angular,process-model:camunda-modeler)</p>
+  <p>Currently working on automation of business process(Backend-java: spring boot,frontend-typescript: angular,process-model:camunda-modeler,database:oracle,server:jboss,tomcat)</p>
 
 ### My stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NaDo2383&theme=algolia" alt="candida18"  /></p>
